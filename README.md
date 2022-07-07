@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NosakhareOsas
-- 👀 I’m interested in mobile app development and DevOPS
+- 👀 I’m interested in web development and DevOPS
 - 🌱 I’m currently learning cloud engineering
 
 
