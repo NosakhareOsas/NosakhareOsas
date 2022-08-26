@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NosakhareOsas
 - 👀 I’m interested in web development and DevOPS
 - 🌱 I’m currently learning cloud engineering
+- https://www.linkedin.com/in/nosakhare-osas/
 
 
 <!---
